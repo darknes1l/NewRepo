@@ -24,9 +24,9 @@ float dive(float a, float b) {
 int main() {
     float num1, num2, result;
     char operation;
-    cout << "Введите первое число: ";
+    cout << "первое число: ";
     cin >> num1;
-    cout << "Введите второе число: ";
+    cout << "второе число: ";
     cin >> num2;
     cout << "+, -, *, /: ";
     cin >> operation;
